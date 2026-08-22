@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mirorstar.github.io/shiftschedule/sitemap.xml
+Sitemap: https://mirorstar.github.io/tabel/sitemap.xml
